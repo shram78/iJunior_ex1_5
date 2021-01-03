@@ -1,0 +1,7 @@
+D:\iJunior\ex1\iJunior_ex1_5\hospital\obj\Debug\hospital.csprojAssemblyReference.cache
+D:\iJunior\ex1\iJunior_ex1_5\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+D:\iJunior\ex1\iJunior_ex1_5\hospital\bin\Debug\hospital.exe.config
+D:\iJunior\ex1\iJunior_ex1_5\hospital\bin\Debug\hospital.exe
+D:\iJunior\ex1\iJunior_ex1_5\hospital\bin\Debug\hospital.pdb
+D:\iJunior\ex1\iJunior_ex1_5\hospital\obj\Debug\hospital.exe
+D:\iJunior\ex1\iJunior_ex1_5\hospital\obj\Debug\hospital.pdb
